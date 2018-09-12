@@ -1,0 +1,88 @@
+"ip_address": "130.195.44.61",
+"device": "Mac",
+"location": "Wellington, New Zealand",
+"app": "Firefox"
+"ip_address": "118.92.213.240",
+"device": "Mac",
+"location": "Wellington, New Zealand",
+"app": "Firefox"
+"ip_address": "130.195.44.120",
+"device": "Mac",
+"location": "Wellington, New Zealand",
+"app": "Chrome"
+"ip_address": "130.195.44.71",
+"device": "Mac",
+"location": "Wellington, New Zealand",
+"app": "Firefox"
+"ip_address": "130.195.44.123",
+"device": "Mac",
+"location": "Wellington, New Zealand",
+"app": "Firefox"
+"ip_address": "2407:7000:9b83:c900:89bb:7a60:e0a1:dd4d",
+"device": "Mac",
+"location": "Wellington, New Zealand",
+"app": "Firefox"
+"ip_address": "2407:7000:9b83:c900:4577:c81a:758e:a2e2",
+"device": "Huawei Nexus 6P",
+"location": "Wellington, New Zealand",
+"app": "Facebook app"
+"ip_address": "2407:7000:9b83:c900:1d31:f1a6:6d73:20cd",
+"device": "Huawei Nexus 6P",
+"location": "Wellington, New Zealand",
+"app": "Facebook app"
+"ip_address": "2407:7000:9b83:c900:d089:81d8:9fa2:50c9",
+"device": "Huawei Nexus 6P",
+"location": "Wellington, New Zealand",
+"app": "Facebook app"
+"ip_address": "49.224.234.202",
+"device": "Huawei Nexus 6P",
+"location": "Auckland, New Zealand",
+"app": "Facebook app"
+"ip_address": "49.224.234.202",
+"device": "Huawei Nexus 6P",
+"location": "Auckland, New Zealand",
+"app": "Facebook app"
+"ip_address": "49.224.241.27",
+"device": "Huawei Nexus 6P",
+"location": "Auckland, New Zealand",
+"app": "Facebook app"
+"ip_address": "121.75.114.156",
+"device": "Huawei Nexus 6P",
+"location": "Paraparaumu, New Zealand",
+"app": "Facebook app"
+"ip_address": "115.189.132.174",
+"device": "Huawei Nexus 6P",
+"location": "Hamilton, New Zealand",
+"app": "Facebook app"
+"ip_address": "118.93.224.234",
+"device": "Huawei Nexus 6P",
+"location": "Renwick, New Zealand",
+"app": "Facebook app"
+"ip_address": "210.246.60.34",
+"device": "Huawei Nexus 6P",
+"location": "Wellington, New Zealand",
+"app": "Facebook app"
+"ip_address": "210.246.24.71",
+"device": "Alcatel Smart First 6",
+"location": "Lower Hutt, New Zealand",
+"app": "Facebook app"
+"ip_address": "210.246.24.71",
+"device": "Alcatel Smart First 6",
+"location": "Lower Hutt, New Zealand",
+"app": "Facebook app"
+"ip_address": "2407:7000:9b83:c900:4577:c81a:758e:a2e2",
+"device": "Huawei Nexus 6P",
+"location": "Wellington, New Zealand",
+"app": "Messenger"
+"ip_address": "130.195.253.19",
+"device": "Android",
+"location": "Wellington, New Zealand",
+"app": "Chrome"
+"ip_address": "130.195.253.19",
+"device": "Android",
+"location": "Wellington, New Zealand",
+"app": "Chrome"
+"ip_address": "130.195.253.29",
+"device": "Android",
+"location": "Wellington, New Zealand",
+"app": "Chrome"
